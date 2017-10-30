@@ -5,7 +5,7 @@ The purpose of this project is to help you get started with Spock. The project i
 
 All three builds (Ant, Gradle, Maven) will automatically download all required dependencies, compile the project, and finally run the example specs. The Gradle build goes one step further by bootstrapping itself, alleviating the need to have a build tool preinstalled.
 
-Prerequisite
+Prerequisites
 -------------
 - JDK 5 or higher
 - Ant 1.7 or higher (for Ant build)
